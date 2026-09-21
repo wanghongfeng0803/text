@@ -1,0 +1,14 @@
+{
+  "name": "text",
+  "version": "1.0.0",
+  "description": "text1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
